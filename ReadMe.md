@@ -6,7 +6,7 @@ Graphical Unix-like operating system for x86 computers.
 
 ## About
 
-*I always wondered what it would be like to write my own operating system, but I never took it seriously. Until now.*
+*I always wondered what it would be like write my own operating system, but I never took it seriously. Until now.*
 
 Serenity is a love letter to '90s user interfaces with a custom Unix-like core. It flatters with sincerity by stealing beautiful ideas from various other systems.
 
